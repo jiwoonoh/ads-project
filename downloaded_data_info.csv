@@ -30,11 +30,6 @@ subject_id,ethnicity,path
 10000764,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000764/s57375967/096052b7-d256dc40-453a102b-fa7d01c6-1b22c6b4.dcm
 10000764,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000764/s57375967/b79e55c3-735ce5ac-64412506-cdc9ea79-f1af521f.dcm
 10000764,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000764/s57375967/dcfeeac4-1597e318-d0e6736a-8b2c2238-47ac3f1b.dcm
-10000898,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000898/s50771383/0c4eb1e1-b801903c-bcebe8a4-3da9cd3c-3b94a27c.dcm
-10000898,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000898/s50771383/2a280266-c8bae121-54d75383-cac046f4-ca37aa16.dcm
-10000898,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000898/s54205396/8959e402-2175d68d-edba5a6c-baab51c3-9359f700.dcm
-10000898,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000898/s54205396/9e7a6aae-2580e589-6212d336-9813ebbd-a9239a34.dcm
-10000898,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000898/s54205396/b75df1bd-0f22d631-52d73526-2ae7b85a-d843b39d.dcm
 10000935,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000935/s50578979/d0b71acc-b5a62046-bbb5f6b8-7b173b85-65cdf738.dcm
 10000935,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000935/s50578979/d0b71acc-b5a62046-bbb5f6b8-7b173b85-65cdf738.dcm
 10000935,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000935/s50578979/d0b71acc-b5a62046-bbb5f6b8-7b173b85-65cdf738.dcm
@@ -197,14 +192,6 @@ subject_id,ethnicity,path
 10000980,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000980/s59988438/925b9496-a956d7b2-05185e52-bb33313b-c06ee522.dcm
 10000980,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000980/s59988438/925b9496-a956d7b2-05185e52-bb33313b-c06ee522.dcm
 10000980,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10000980/s59988438/925b9496-a956d7b2-05185e52-bb33313b-c06ee522.dcm
-10001038,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001038/s58224503/28fad2ac-d6001216-b4f72c5b-2d4d452e-17b6c9a5.dcm
-10001038,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001038/s58224503/5cae71aa-99bb4662-41ef629e-7e89308c-5831ff9c.dcm
-10001038,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001038/s58224503/f3e86afd-437eb86e-0f9bafb8-1e0f6f96-084ac17e.dcm
-10001122,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001122/s53447138/8039752c-2ea661b7-16f1eafe-055b7e7b-dbd4cdd1.dcm
-10001122,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001122/s53447138/832b57d8-3ae08663-e152699e-51c5db98-b7cb4226.dcm
-10001122,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001122/s53957785/07b9ddda-9a4a1e1a-4495463d-4c77d947-ed368713.dcm
-10001122,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001122/s53957785/9d0b174f-274aad16-82ecf512-e149845d-79154325.dcm
-10001122,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001122/s53957785/cf25f480-4219d99b-fdd51fcb-34fc89e7-c149837f.dcm
 10001176,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001176/s53186264/1fe73f8e-036bd24e-4578c891-33c1746e-864884a7.dcm
 10001176,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001176/s53186264/c0b72282-4bf7adde-cf59c475-8fd53494-bc16bc5c.dcm
 10001176,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001176/s54684191/20f28a4a-25597874-b9a79e92-d0a4a168-c4126873.dcm
@@ -276,8 +263,6 @@ subject_id,ethnicity,path
 10001401,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001401/s58747570/f56a3d51-284b2466-262661f1-2567a6ab-248f4ae3.dcm
 10001401,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001401/s58747570/f56a3d51-284b2466-262661f1-2567a6ab-248f4ae3.dcm
 10001401,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001401/s58747570/f56a3d51-284b2466-262661f1-2567a6ab-248f4ae3.dcm
-10001851,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001851/s59664767/9fb2d581-65c0f51e-3ff2db55-6b21a902-c270ad96.dcm
-10001851,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001851/s59664767/edb88e4a-c04f1be7-aefcf3e0-8889542d-692ff7fd.dcm
 10001884,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001884/s50279568/3892f17f-8fa034e8-e9b81865-01c48bbb-b9452626.dcm
 10001884,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001884/s50279568/3892f17f-8fa034e8-e9b81865-01c48bbb-b9452626.dcm
 10001884,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10001884/s50279568/3892f17f-8fa034e8-e9b81865-01c48bbb-b9452626.dcm
@@ -1644,10 +1629,6 @@ subject_id,ethnicity,path
 10002131,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002131/s52823782/17ddfe00-28e1f5ac-45cd9f16-86b7ca24-2cee412f.dcm
 10002131,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002131/s52823782/17ddfe00-28e1f5ac-45cd9f16-86b7ca24-2cee412f.dcm
 10002131,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002131/s52823782/17ddfe00-28e1f5ac-45cd9f16-86b7ca24-2cee412f.dcm
-10002157,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002157/s56373033/3c659977-44aefeb8-cdc200a8-24ea059e-9dd6758c.dcm
-10002157,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002157/s56373033/b35977d7-58a64019-e2cf04d1-ec125bc4-42889e97.dcm
-10002177,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002177/s50520012/2833b85f-3bb4273f-cffd3794-2bf2cd57-7ddb3f5f.dcm
-10002177,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002177/s50520012/7fdad032-90608fe2-c1f5a700-bf95f6f9-e9b0dbc7.dcm
 10002221,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002221/s53781756/8b88f03a-2004113d-4118def5-35820db5-d0913df8.dcm
 10002221,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002221/s53781756/8b88f03a-2004113d-4118def5-35820db5-d0913df8.dcm
 10002221,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002221/s53781756/8b88f03a-2004113d-4118def5-35820db5-d0913df8.dcm
@@ -1939,8 +1920,6 @@ subject_id,ethnicity,path
 10002559,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002559/s52212843/bee58030-528bcbb7-506f2513-e324c972-f87e7254.dcm
 10002559,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002559/s59849480/25423a5e-8c27af51-c2c840f3-b498f42b-8ef8e461.dcm
 10002559,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002559/s59849480/d27de621-6e7125d4-26717db4-e7e27362-80d05698.dcm
-10002661,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002661/s53368584/2630b0b8-2d5af3a6-1a02c2ca-952e9535-b44c35ee.dcm
-10002661,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002661/s53368584/599b85f2-1459d013-e1a5ac24-9f73ad92-aaf0dc22.dcm
 10002930,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002930/s55885481/84c6ecc4-fd81e31d-1e879d18-13024211-35de54ad.dcm
 10002930,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002930/s55885481/84c6ecc4-fd81e31d-1e879d18-13024211-35de54ad.dcm
 10002930,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10002930/s55885481/84c6ecc4-fd81e31d-1e879d18-13024211-35de54ad.dcm
@@ -2358,8 +2337,6 @@ subject_id,ethnicity,path
 10003052,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003052/s58630288/21560cb5-ffe886be-2a234166-47975293-e3a97d3f.dcm
 10003052,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003052/s58630288/6b13ea59-55cebae9-9033c624-632b5e8b-9ff3e4d2.dcm
 10003052,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003052/s58630288/70dd4893-39c01c88-5dcc0b60-5519208f-53cc8045.dcm
-10003255,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003255/s52843603/4622ca4f-75ff8064-94edcebc-fcdd6762-91c53065.dcm
-10003255,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003255/s52843603/e37f70fc-c7a4dbb1-6f0f1232-f95e1bae-0947861c.dcm
 10003299,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003299/s50536653/69c64be9-ed77fb62-7fad1785-d91de463-0fbf5c4b.dcm
 10003299,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003299/s50536653/69c64be9-ed77fb62-7fad1785-d91de463-0fbf5c4b.dcm
 10003299,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10003299/s50536653/69c64be9-ed77fb62-7fad1785-d91de463-0fbf5c4b.dcm
@@ -2908,6 +2885,38 @@ subject_id,ethnicity,path
 10006692,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10006692/s58830039/91678883-0e6192be-dac99e42-ce52d20c-ee036568.dcm
 10007058,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007058/s54462409/f7bfbcef-b2b6af1e-9eb38616-64c59906-f36289e8.dcm
 10007058,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007058/s56744764/042c526a-7dc2c7f0-c925d3df-cf63863f-76bdf0c9.dcm
+10007326,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007326/s59442660/0be4bdc0-81b9f8dd-ce647d4e-27b6f6ca-fae48943.dcm
+10007326,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007326/s59442660/50eb4ad0-5d6400c7-be43ccda-643402a2-6a84194c.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/8ae912e7-dd9b9e8c-783e82c3-eee10e45-c8c7ba33.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/8ae912e7-dd9b9e8c-783e82c3-eee10e45-c8c7ba33.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/8ae912e7-dd9b9e8c-783e82c3-eee10e45-c8c7ba33.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/8ae912e7-dd9b9e8c-783e82c3-eee10e45-c8c7ba33.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/8ae912e7-dd9b9e8c-783e82c3-eee10e45-c8c7ba33.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/967dc8d0-867d422a-ed5ad465-5d9c21e8-381c3d60.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/967dc8d0-867d422a-ed5ad465-5d9c21e8-381c3d60.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/967dc8d0-867d422a-ed5ad465-5d9c21e8-381c3d60.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/967dc8d0-867d422a-ed5ad465-5d9c21e8-381c3d60.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54054513/967dc8d0-867d422a-ed5ad465-5d9c21e8-381c3d60.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54317369/0aaf1dce-44cd06d6-29ad91bd-d70fe036-e3823187.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54317369/0aaf1dce-44cd06d6-29ad91bd-d70fe036-e3823187.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54317369/0aaf1dce-44cd06d6-29ad91bd-d70fe036-e3823187.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54317369/0aaf1dce-44cd06d6-29ad91bd-d70fe036-e3823187.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54317369/0aaf1dce-44cd06d6-29ad91bd-d70fe036-e3823187.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54492585/b9998910-7fcbe400-e6d6bbf4-8e469523-cb3beb9e.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54492585/b9998910-7fcbe400-e6d6bbf4-8e469523-cb3beb9e.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54492585/b9998910-7fcbe400-e6d6bbf4-8e469523-cb3beb9e.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54492585/b9998910-7fcbe400-e6d6bbf4-8e469523-cb3beb9e.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54492585/b9998910-7fcbe400-e6d6bbf4-8e469523-cb3beb9e.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/7de5d2d7-d9b8801e-82415980-2050afb9-977cfe82.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/7de5d2d7-d9b8801e-82415980-2050afb9-977cfe82.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/7de5d2d7-d9b8801e-82415980-2050afb9-977cfe82.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/7de5d2d7-d9b8801e-82415980-2050afb9-977cfe82.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/7de5d2d7-d9b8801e-82415980-2050afb9-977cfe82.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/82d5e07b-e915e044-ccb92d30-27b782f2-bc9f28dc.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/82d5e07b-e915e044-ccb92d30-27b782f2-bc9f28dc.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/82d5e07b-e915e044-ccb92d30-27b782f2-bc9f28dc.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/82d5e07b-e915e044-ccb92d30-27b782f2-bc9f28dc.dcm
+10007795,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p10/p10007795/s54581957/82d5e07b-e915e044-ccb92d30-27b782f2-bc9f28dc.dcm
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s55199984/528b3a72-87c4c173-121695d8-8c8ab04a-a617dfdb.dcm
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s55199984/528b3a72-87c4c173-121695d8-8c8ab04a-a617dfdb.dcm
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s55199984/528b3a72-87c4c173-121695d8-8c8ab04a-a617dfdb.dcm
@@ -2924,10 +2933,6 @@ subject_id,ethnicity,path
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s58487107/cdc4c234-8fe207e5-25c896ba-b8b3c25d-e9b4d1ce.dcm
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s58487107/cdc4c234-8fe207e5-25c896ba-b8b3c25d-e9b4d1ce.dcm
 12000091,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000091/s58487107/cdc4c234-8fe207e5-25c896ba-b8b3c25d-e9b4d1ce.dcm
-12000146,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000146/s52988409/cc280e4d-3e4b7d90-6aa77a47-3946d986-5424df6f.dcm
-12000146,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000146/s52988409/d75aa7c2-d18d783b-d5932b2f-568067e4-746c2426.dcm
-12000146,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000146/s55836587/46c7c426-c99c64a9-baa903ec-aef7700c-eb4865f6.dcm
-12000146,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000146/s55836587/bd70f866-472e4d0f-594689a7-7597171c-322d8227.dcm
 12000264,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000264/s55271473/522f9570-7cb12ecb-6327c8b8-b248b4be-58bb3dfd.dcm
 12000264,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000264/s55271473/d0b61aff-f64c4ecf-85fae310-43668cf1-0c1d4c2d.dcm
 12000432,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000432/s51638543/347929d2-66f52ea9-8b9ad540-db02fa1f-47d14098.dcm
@@ -2984,8 +2989,6 @@ subject_id,ethnicity,path
 12000487,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000487/s50127595/937f4f8f-5101e609-1936e8db-a3fa7358-0ed5cc0d.dcm
 12000487,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000487/s50127595/f9ef10ca-9d14eb70-e87de9eb-a4860177-1ee90f83.dcm
 12000487,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000487/s50127595/f9ef10ca-9d14eb70-e87de9eb-a4860177-1ee90f83.dcm
-12000894,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000894/s50984094/1a4e5daf-5c6365b1-90567e79-9036268f-09254d78.dcm
-12000894,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12000894/s50984094/a3ab8ba1-35bf44ca-dca02415-f4015379-e1f76156.dcm
 12001709,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001709/s50006012/e10dd931-6dadbb76-c9257728-b93054e1-7d0fe827.dcm
 12001709,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001709/s50006012/e10dd931-6dadbb76-c9257728-b93054e1-7d0fe827.dcm
 12001709,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001709/s50006012/e10dd931-6dadbb76-c9257728-b93054e1-7d0fe827.dcm
@@ -3022,15 +3025,8 @@ subject_id,ethnicity,path
 12001936,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001936/s56801798/adca80e0-c86ab0c1-2cb6eb4e-7d3762be-afcb8afc.dcm
 12001941,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001941/s53092856/4f432654-17b34263-de12b2e1-e8950ac4-1043d1c9.dcm
 12001941,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001941/s53092856/91f943a0-5f9ec50b-05457f3d-f510d5da-8835e110.dcm
-12001970,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001970/s57983830/8c9f3fef-cf7d931c-4badf8d2-960625d2-64c260ea.dcm
-12001970,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001970/s57983830/8f96826a-3c15cb33-a40b75d7-46f69896-81aa45f6.dcm
-12001970,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12001970/s57983830/bad600ab-47df719f-332b62bf-31037af8-84198df2.dcm
 12002013,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002013/s59533665/1b53331d-d9b64e45-6a5cffbf-59500207-490035d2.dcm
 12002013,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002013/s59533665/21aa6887-354b0a31-6ef43aef-abb28eea-227edd56.dcm
-12002084,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002084/s57413441/597a1a7d-80b98fbf-8842cfe7-07f2be8e-72ade46f.dcm
-12002084,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002084/s57413441/8488d5a6-a54dbef7-a8f176f3-f333c437-8729db9f.dcm
-12002143,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002143/s58776489/80f54616-3b885538-6185b518-3877975f-2c679d2e.dcm
-12002143,,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002143/s58776489/8b141aac-b69fdb26-05b71b4c-eebb49ef-2ec71510.dcm
 12002163,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002163/s50098408/52808bca-d4021bf1-4a3b26fb-b606f756-9ae93109.dcm
 12002163,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002163/s50098408/52808bca-d4021bf1-4a3b26fb-b606f756-9ae93109.dcm
 12002163,WHITE,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002163/s50098408/52808bca-d4021bf1-4a3b26fb-b606f756-9ae93109.dcm
@@ -3102,3 +3098,123 @@ subject_id,ethnicity,path
 12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/015362bf-994d2e47-274511bf-2ee86caf-33775bb4.dcm
 12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/015362bf-994d2e47-274511bf-2ee86caf-33775bb4.dcm
 12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/015362bf-994d2e47-274511bf-2ee86caf-33775bb4.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51228072/aea85599-87df5449-a8e7ce6d-46cf6513-3de2ab24.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/2bbf7c14-a3ca6eae-2cba5e44-3ae41e78-a58c62a5.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51259747/33c85a95-ee6559bf-9474bb73-567801d3-08201da8.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/784b9b08-1fc20171-f0914d95-e3ec263b-ac598ae1.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s51668897/addd05d0-11be1f0f-c7502029-5002e3ce-d7763ed7.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/7884a008-33a87567-f0729090-93a98910-c297d030.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55365174/dd48e956-e4c18dc7-70b028ec-a95a6e89-0aa2c4a0.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
+12002285,BLACK/AFRICAN AMERICAN,/Users/jiwoo_noh/Downloads/physionet.org/files/mimic-cxr/2.1.0/files/p12/p12002285/s55983379/92c989ce-ef2da06c-241210c3-5eb67dd9-947eb344.dcm
